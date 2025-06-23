@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToCamelCaseEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fddb9f1df40e744cd9b12aeef96dc4dc72dd2b00")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToCamelCaseEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToCamelCaseEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

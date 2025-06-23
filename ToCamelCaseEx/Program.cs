@@ -4,15 +4,14 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine(ToCamelCaseLinq("the_stealth_warrior"));
-        Console.WriteLine(ToCamelCaseLinq("The-Stealth-Warrior"));
+        Console.WriteLine(ToCamelCase("the_stealth_warrior"));
+        Console.WriteLine(ToCamelCase("The-Stealth-Warrior"));
     }
 
     public static string ToCamelCase(string str)
     {
         var sb = new StringBuilder();
-        str = str.Replace("-", "_");
-        var splittedString = str.Split('_');
+        var splittedString = str.Split('-', '_');
         for(int i = 0; i < splittedString.Length; i++)
         {
             if(i == 0)
