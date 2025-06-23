@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\bin\Debug\net8.0\ToCamelCaseEx.exe
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\bin\Debug\net8.0\ToCamelCaseEx.deps.json
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\bin\Debug\net8.0\ToCamelCaseEx.runtimeconfig.json
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\bin\Debug\net8.0\ToCamelCaseEx.dll
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\bin\Debug\net8.0\ToCamelCaseEx.pdb
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\obj\Debug\net8.0\ToCamelCaseEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\obj\Debug\net8.0\ToCamelCaseEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\obj\Debug\net8.0\ToCamelCaseEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\obj\Debug\net8.0\ToCamelCaseEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\obj\Debug\net8.0\ToCamelCaseEx.dll
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\obj\Debug\net8.0\refint\ToCamelCaseEx.dll
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\obj\Debug\net8.0\ToCamelCaseEx.pdb
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\obj\Debug\net8.0\ToCamelCaseEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\ToCamelCaseEx\ToCamelCaseEx\obj\Debug\net8.0\ref\ToCamelCaseEx.dll
